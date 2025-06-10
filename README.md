@@ -10,5 +10,5 @@
 <p>
 This summer, I am serving as a research assistant, gaining hands-on experience in collaborative, real-world investigations related to computing and AI. My skill set includes certifications in HTML from W3Schools, proficiency in Adobe Photoshop and Microsoft Office, and intermediate Spanish. I have also developed strong communication and teamwork abilities through academic and extracurricular activities, including leadership roles in Future Business Leaders of America and athletic participation in varsity football and track. With a commitment to innovation, ethics, and continual learning, I am excited to contribute meaningfully to cutting-edge research and future tech-driven solutions.
 </p>
-<img src="Yari_Pettis.png" width="150px">
+<img src="yarpet.png">
 
